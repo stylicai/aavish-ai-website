@@ -87,16 +87,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
  <SchemaMarkup type="website" />
  <Navbar />
  <main id="main">{children}</main>
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-P85049YJSS"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-P85049YJSS');
-</script>
   
  <Footer />
  </body>
