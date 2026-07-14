@@ -6,14 +6,14 @@ export const site = {
   tagline: "Built for production. Not demos.",
   description:
     "A global AI systems engineering lab. We design, build, and deploy production-grade AI for real businesses — autonomous agents, RAG, automation, and custom AI software.",
-  email: "team@aavish.ai",
+  email: "info@aavishailab.com",
   location: "Built in India · Deployed globally",
   responseTime: "Typically replying within 24 hours.",
   social: {
     x: "https://x.com/aavishlabs",
     linkedin: "https://www.linkedin.com/company/aavish-ai-lab",
     github: "https://github.com/aavish-ai",
-    email: "mailto:team@aavish.ai"
+    email: "mailto:info@aavishailab.com"
   },
   stats: {
     deployments: "50+",
